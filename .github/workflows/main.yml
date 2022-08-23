@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: actions/add-to-project@main
         with:
-          project-url: https://github.com/orgs/civilgamers/projects/5
+          project-url: https://github.com/orgs/civilnetworks/projects/5
           github-token: ${{ secrets.PROJECT_TOKEN }}
