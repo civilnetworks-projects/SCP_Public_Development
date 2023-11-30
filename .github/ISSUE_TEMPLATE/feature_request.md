@@ -10,7 +10,7 @@ assignees: ''
 **Forum link** 
 Leave blank if not applicable.
 
-**Enhancement description**
+**Feature description**
 Summary description of the feature and it's mechanics
 
 **Specification**
